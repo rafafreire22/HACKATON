@@ -1,0 +1,70 @@
+.saude {
+	position: fixed;
+	top: 0;
+  left: 0;
+  background: #DBD9FF;
+  backdrop-filter: saturate(180%) blur(10px);
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 5px;
+  z-index: 10;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #29229b;
+}
+
+.saude2 {
+	width: 100vw;
+  height: 150vh;
+  background: #DBD9FF;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #29229b ;
+}
+.saude3 {
+	width: 100vw;
+  height: 100vh;
+  background: #29229b;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.saude4 {
+	width: 100vw;
+  height: 150vh;
+  background: #a5a3e2;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+
+
+
+.saude1 {
+	background-color: white
+	;
+	color: #29229b;
+	border: 2px solid #29229b;
+	margin: 20px;
+	padding: 20px;
+  
+}
+
+div.box {
+  width: 1500px;
+  display: inline-block;
+}
+
